@@ -12,16 +12,6 @@ This repository contains my Competitive Programming solutions submitted as part 
 
 I solve problems on various competitive programming platforms, mainly using **Java**, and occasionally **Python**. This repository helps me improve my problem-solving skills, strengthen my understanding of algorithms and data structures, and track my learning progress.
 
----
-
-## 🚀 Platforms
-
-- 🌐 **Codeforces:** https://codeforces.com/profile/Hanushi_190
-- 🟢 **HackerRank:** https://www.hackerrank.com/profile/hanu_106
-- 🔥 **CodeChef:** Solutions available in this repository.
-
----
-
 ## 🛠 Languages
 
 | Language | Rating |
@@ -51,11 +41,11 @@ I solve problems on various competitive programming platforms, mainly using **Ja
 
 ## 👨‍🎓 Student Details
 
-**Name:** NIKHI K
+**Name:** T.Bhuvana sri
 
-**Roll No:** A24126510084
+**Roll No:** A24126510112
 
-**Email:** kotipatruninikhil.24.cse@anits.edu.in
+**Email:** tallapudibhuvanasrilakshmi.24.cse@anits.edu.in
 
 ---
 
